@@ -1,0 +1,42 @@
+.btn {
+  height: 65px;
+  width: 65px;
+  color: rgb(16, 19, 34);
+  font-size: 18px;
+  border: rgb(255, 206, 206) solid 0px;
+  font-weight: bold;
+  border-radius: 50%;
+  margin: 30px 20px;
+  /* background-color:red ; */
+}
+.btn:hover {
+  cursor: pointer;
+}
+/* @media (max-width: 900px) {
+  .btn {
+    font-size: 25px;
+    margin: 10px;
+    padding: 10px;
+  }
+}
+@media (max-width: 680px) {
+  .btn {
+    font-size: 20px;
+    margin: 8px;
+    padding: 8px;
+  }
+}
+@media (max-width: 570px) {
+  .btn {
+    font-size: 20px;
+    margin: 5px;
+    padding: 5px;
+  }
+}
+@media (max-width: 490px) {
+  .btn {
+    font-size: 18px;
+    margin: 5px;
+    padding: 5px;
+  }
+} */
